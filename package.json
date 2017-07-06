@@ -1,0 +1,24 @@
+{
+  "name": "first-npm-ios-component",
+  "version": "1.0.0",
+  "description": "封装原生iOS组件导入react-native的尝试",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengjiankang/react-native-BGNativeModuleExample.git"
+  },
+  "keywords": [
+    "react-native",
+    "/",
+    "ios"
+  ],
+  "author": "kangya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengjiankang/react-native-BGNativeModuleExample/issues"
+  },
+  "homepage": "https://github.com/fengjiankang/react-native-BGNativeModuleExample#readme"
+}
